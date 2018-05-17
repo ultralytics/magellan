@@ -25,6 +25,7 @@ Ultralytics MATLAB common functions must also be cloned and added to the MATLAB 
 2. From MATLAB Command Window: ```>> apppath(genpath('/matlab-common'))```
 
 # Running
+Various methods. Please contact for more information.
 
 <img src="https://github.com/ultralytics/magellan/blob/master/neutron_map.png"> 
 
