@@ -14,15 +14,15 @@ The https://github.com/ultralytics/magellan repo contains Worldwide Neutron Flux
 
 # Requirements
 
-MATLAB with the following toolbox installed:  
+MATLAB >= 2018a with the following toolbox installed:  
 
 - ```Statistics and Machine Learning Toolbox```
 - ```Signal Processing Toolbox```
 
 Ultralytics MATLAB common functions must also be cloned and added to the MATLAB path:
 
-1. From a shell: ```$ git clone https://github.com/ultralytics/matlab-common```
-2. From MATLAB Command Window: ```>> apppath(genpath('/matlab-common'))```
+1. From shell: ```$ git clone https://github.com/ultralytics/matlab-common```
+2. From MATLAB: ```>> apppath(genpath('/matlab-common'))```
 
 # Running
 Various methods. Please contact for more information.
