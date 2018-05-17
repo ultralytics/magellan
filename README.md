@@ -7,7 +7,7 @@ http://www.ultralytics.com  
 
 # Description
 
-The https://github.com/ultralytics/magellan repo contains Worldwide Neutron Flux Forecasting algorithms. Powered by Machine Learning. Viewable in Google Maps and WebGL Earth.
+The https://github.com/ultralytics/magellan repo contains Earth observation software powered by Machine Learning (ML). Viewable in Google Maps and WebGL Earth:
 
 - Google Maps› https://storage.googleapis.com/neutronmap/neutronmap1/tileOverlayLarge.html
 - WebGL Earth› http://storage.googleapis.com/neutronmap/neutronmap1/webGLEarth.html
