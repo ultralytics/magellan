@@ -74,6 +74,3 @@ For Ultralytics bug reports, feature requests, questions, or discussions, you ar
   <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="3%" alt="space">
   <a href="https://ultralytics.com/discord"><img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-discord.png" width="3%" alt="Ultralytics Discord"></a>
 </div>
-```
-
-Note: Make sure to replace placeholder `<!-- Add your example code here with comments explaining each step -->` with actual example code and comments if you have any available. This will provide users with concrete samples to get started.
