@@ -2,7 +2,7 @@
 
 # 📜 Introduction
 
-Welcome to the Ultralytics open-source Earth observation repository! This space is dedicated to showcasing software designed by Ultralytics LLC, illustrating the power of Machine Learning (ML) in geospatial analysis and observation. To discover a range of our innovative projects, head over to our website: [Ultralytics Projects](http://www.ultralytics.com).
+Welcome to the Ultralytics open-source Earth observation repository! This space is dedicated to showcasing software designed by Ultralytics, illustrating the power of Machine Learning (ML) in geospatial analysis and observation. To discover a range of our innovative projects, head over to our website: [Ultralytics Projects](http://www.ultralytics.com).
 
 # 🌍 Project Description
 
