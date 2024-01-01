@@ -40,5 +40,5 @@ fclose(fileID);
 dataArray([1, 5, 6, 7, 8, 9, 10, 11, 12]) = cellfun(@(x) num2cell(x), dataArray([1, 5, 6, 7, 8, 9, 10, 11, 12]), 'UniformOutput', false);
 A = [dataArray{1:end-1}];
 %% Clear temporary variables
-clearvars filename delimiter startRow formatSpec fileID dataArray ans;
+clearvars filename delimiter startRow formatSpec fileID dataArray and;
 end
