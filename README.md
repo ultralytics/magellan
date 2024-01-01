@@ -14,6 +14,7 @@ The [Ultralytics Magellan Project](https://github.com/ultralytics/magellan) is a
 # 🛠 Requirements
 
 To harness the capabilities of the Magellan project, the following are required:
+
 - **MATLAB**: Version 2018a or newer. Please visit [MATLAB Software](https://www.mathworks.com/products/matlab.html) for installation details.
 - **Supporting Utilities**: Clone the common functions repository by executing `$ git clone https://github.com/ultralytics/functions-matlab`. After cloning, incorporate it into your MATLAB environment with `>> addpath(genpath('/functions-matlab'))`.
 - **MATLAB Toolboxes**: Ensure installation of the `Statistics and Machine Learning Toolbox` and the `Signal Processing Toolbox`.
@@ -23,6 +24,7 @@ To harness the capabilities of the Magellan project, the following are required:
 To utilize the Magellan software, various methods are available depending on your specific use case and expertise:
 
 1. For a general overview of functionalities and navigation:
+
 ```matlab
 % After setting up the MATLAB environment as per the requirements:
 % Add your example code here with comments explaining each step
