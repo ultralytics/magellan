@@ -25,13 +25,14 @@ To utilize the Magellan software, various methods are available depending on you
 
 1. For a general overview of functionalities and navigation:
 
-   ```matlab
-   % After setting up the MATLAB environment as per the requirements:
-   % Add your example code here with comments explaining each step
-   ```
+    ```matlab
+    % After setting up the MATLAB environment as per the requirements:
+    % Add your example code here with comments explaining each step
+    ```
 
 2. For advanced configurations and custom runs:
-   - Please don't hesitate to reach out for more detailed instructions tailored to your needs.
+
+    - Please don't hesitate to reach out for more detailed instructions tailored to your needs.
 
 🖼️ Visualization Preview:
 
