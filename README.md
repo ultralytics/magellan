@@ -4,6 +4,8 @@
 
 Welcome to the Ultralytics open-source Earth observation repository! This space is dedicated to showcasing software designed by Ultralytics, illustrating the power of Machine Learning (ML) in geospatial analysis and observation. To discover a range of our innovative projects, head over to our website: [Ultralytics Projects](http://www.ultralytics.com).
 
+[![Ultralytics Actions](https://github.com/ultralytics/magellan/actions/workflows/format.yml/badge.svg)](https://github.com/ultralytics/magellan/actions/workflows/format.yml)
+
 # 🌍 Project Description
 
 The [Ultralytics Magellan Project](https://github.com/ultralytics/magellan) is at the forefront of integrating ML with Earth observation. It allows for ML-powered insights derived from geospatial data to be viewed and interacted with on platforms such as Google Maps and WebGL Earth, bringing a new dimension to data visualization and analysis.
@@ -25,13 +27,14 @@ To utilize the Magellan software, various methods are available depending on you
 
 1. For a general overview of functionalities and navigation:
 
-```matlab
-% After setting up the MATLAB environment as per the requirements:
-% Add your example code here with comments explaining each step
-```
+    ```matlab
+    % After setting up the MATLAB environment as per the requirements:
+    % Add your example code here with comments explaining each step
+    ```
 
 2. For advanced configurations and custom runs:
-   - Please don't hesitate to reach out for more detailed instructions tailored to your needs.
+
+    - Please don't hesitate to reach out for more detailed instructions tailored to your needs.
 
 🖼️ Visualization Preview:
 
