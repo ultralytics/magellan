@@ -38,7 +38,7 @@ To utilize the Magellan software, various methods are available depending on you
 
 🖼️ Visualization Preview:
 
-<img src="https://github.com/ultralytics/magellan/blob/master/neutron_map.png" alt="Magellan Neutron Map">
+<img src="https://github.com/ultralytics/magellan/blob/main/neutron_map.png" alt="Magellan Neutron Map">
 
 # 🤝 Contribute
 
