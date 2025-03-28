@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [] = run1day()
 clc; close all; clear
 % A=importNRLneutronFile('Neutron_Alaska_9_18_15_1s.csv');

@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function x1=fcnCovarianceModel(iC,xv,mu)
 %GENERAL MULTIVARIATE NORMAL FORM: dx = (x-mu)';  %fx = 1/((2*pi)^(n/2)*sqrt(det(C))) * exp(-.5*dx'*C^-1*dx)
 n = numel(mu);

@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function Weather91515Dalton = importWeatherAlaska(filename, startRow, endRow)
 %IMPORTFILE Import numeric data from a text file as a matrix.
 %   WEATHER91515DALTON = IMPORTFILE(FILENAME) Reads data from text file

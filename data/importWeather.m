@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function A=importWeather(filename)
 %filename = '/Users/glennjocher/Google Drive/MATLAB/Magellan/Hawaii_7_24_2015/ULWeather_7_24_15.dat';
 delimiter = ',';
