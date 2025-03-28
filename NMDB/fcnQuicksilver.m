@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [T,pSea,pStation,altitude,rigidity,water] = fcnQuicksilver(nc)
 if nargin==0; nc=720; end %number of columns
 nr=nc/2;  [lat,lon]=meshgrid(linspace(90,-90,nr), linspace(-180,180,nc));

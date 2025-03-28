@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function A=grabForecastData(a,F)
 f = fieldnames(a); n=numel(f);
 

@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [] = NMDBmultiStation()
 clc; clear; close all
 load ProjectMagellanNMDBTable.mat;  T=table2cell(ProjectMagellanNMDBTable);

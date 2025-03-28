@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function Rcv = convertWMMtoVRC(lat,lon)
 %Converts Wold Magnetic Model (nT) to Vertical Cutoff Rigidity (GV)
 %http://engineering.dartmouth.edu/~d76205x/research/Shielding/docs/Smart_06.pdf

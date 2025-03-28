@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function Xout = readNOAA_NCAR(Date,LAT,LNG)
 %http://www.esrl.noaa.gov/psd/data/gridded/data.ncep.reanalysis.derived.surface.html
 %Date = any matlab 'date' function. i.e. type >>date

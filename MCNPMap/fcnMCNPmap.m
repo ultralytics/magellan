@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 %function [] = fcnMCNPmap()
 clc; clear; close all
 load background.mat; a=background;  n=613;  ov=ones(n,1);

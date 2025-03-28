@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [ha, R] = plotmatrix2(X,xstr)
 nx=size(X,2);  ny=size(X,2);  R=zeros(nx,ny);
 

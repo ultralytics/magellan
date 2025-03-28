@@ -1,3 +1,5 @@
+% Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
 function [S, url, X, F] = forecastAPI(lat,lng,date)
 % https://developer.forecast.io
 % https://api.forecast.io/forecast/47ab0a8f644eb458f66eb4b46ac7b420/46.5475,7.9851;  %EXAMPLE
