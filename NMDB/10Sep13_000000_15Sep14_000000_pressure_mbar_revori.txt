@@ -19,7 +19,7 @@ _______________________________________________________________________
 | free for non commercial use within the restrictions imposed by the providers. If you use |
 | such data for your research or applications, please acknowledge the origin by a sentence |
 | like " We acknowledge the NMDB database (www.nmdb.eu),founded under the European Union's |
-| FP7 programme (contract no. 213007) for providing data. ", and acknowledge individual    |
+| FP7 program (contract no. 213007) for providing data. ", and acknowledge individual    |
 | monitors following the information given on the respective station information page.     |
 |__________________________________________________________________________________________|
 
