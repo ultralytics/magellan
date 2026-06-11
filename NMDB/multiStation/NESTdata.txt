@@ -18,7 +18,7 @@ ________________________________________________________________________
 | are free for non commercial use to within the restrictions imposed by the providers. |
 | If you use such data for your research or applications,please acknowledge the origin |
 | by a sentence like 'We acknowledge the NMDB database (www.nmdb.eu) founded under the |
-| European Union's FP7 program (contract no. 213007), and the PIs of individual neu- |
+| European Union's FP7 programme (contract no. 213007), and the PIs of individual neu- |
 | tron monitors for providing data.'                                                   |
 |______________________________________________________________________________________|
 
