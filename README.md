@@ -11,41 +11,36 @@ Welcome to the Ultralytics open-source Earth observation repository! This space 
 
 # 🌍 Project Description
 
-The [Ultralytics Magellan Project](https://github.com/ultralytics/magellan) pioneers the integration of **ML** with Earth observation data. This project enables users to visualize and interact with ML-derived insights from geospatial data directly on platforms like [Google Maps](https://www.google.com/maps) and [WebGL Earth](https://www.webglearth.com/), adding a dynamic dimension to data visualization and analysis in [computer vision](https://www.ultralytics.com/glossary/computer-vision-cv).
+The [Ultralytics Magellan Project](https://github.com/ultralytics/magellan) pioneers the integration of **ML** with Earth observation data. This project enables users to visualize and interact with ML-derived insights from geospatial data on platforms like [Google Maps](https://www.google.com/maps) and [WebGL Earth](https://www.webglearth.com/), adding a dynamic dimension to data visualization and analysis in [computer vision](https://www.ultralytics.com/glossary/computer-vision-cv).
 
-- Visualize on **Google Maps**: [View Google Maps Visualization](https://storage.googleapis.com/neutronmap/neutronmap1/tileOverlayLarge.html)
-- Explore on **WebGL Earth**: [Interact with WebGL Earth](http://storage.googleapis.com/neutronmap/neutronmap1/webGLEarth.html)
+- Preview the generated neutron map output: [`neutron_map.png`](neutron_map.png)
+- Explore the MATLAB workflows in [`NMDB/MAGELLAN.m`](NMDB/MAGELLAN.m), [`data/run1day.m`](data/run1day.m), and [`MCNPMap/fcnMCNPmap.m`](MCNPMap/fcnMCNPmap.m)
 
 # 🛠️ Requirements
 
 To leverage the full capabilities of the Magellan project, ensure you have the following prerequisites:
 
-- **MATLAB**: Version 2018a or newer. Visit the official [MATLAB Software page](https://www.mathworks.com/products/matlab.html) for installation details and support.
-- **Supporting Utilities**: Clone the common functions repository using `$ git clone https://github.com/ultralytics/functions-matlab`. After cloning, add it to your MATLAB path with `>> addpath(genpath('/path/to/functions-matlab'))`, replacing `/path/to/` with the actual directory.
-- **MATLAB Toolboxes**: Install the `Statistics and Machine Learning Toolbox` and the `Signal Processing Toolbox`. These are essential for the project's [data analysis](https://www.ultralytics.com/glossary/data-analytics) and processing tasks.
+- **MATLAB**: R2018a or newer. Visit the official [MATLAB Software page](https://www.mathworks.com/products/matlab.html) for installation details and support.
+- **Supporting Utilities**: Clone the common functions repository:
+  ```shell
+  git clone https://github.com/ultralytics/functions-matlab
+  ```
+  After cloning, add this repository and the common functions repository to your MATLAB path:
+  ```matlab
+  addpath(genpath('/path/to/magellan'))
+  addpath(genpath('/path/to/functions-matlab'))
+  ```
+- **MATLAB Toolboxes**: Install the `Statistics and Machine Learning Toolbox`, `Signal Processing Toolbox`, and `Deep Learning Toolbox`. These are essential for the project's [data analysis](https://www.ultralytics.com/glossary/data-analytics), neural-network modeling, and processing tasks.
 
 # 🚀 Getting Started
 
 Follow these steps to get started with the Magellan software:
 
-1.  **Set up Environment**: Ensure MATLAB and the required toolboxes are installed and the `functions-matlab` repository is added to your path as described in the Requirements section.
-2.  **Run Example Code**: Use the following MATLAB code snippet as a starting point. Add your specific code and comments to tailor it to your analysis needs.
+1.  **Set up Environment**: Ensure MATLAB and the required toolboxes are installed, then add this repository and `functions-matlab` to your path as described in the Requirements section.
+2.  **Run Example Code**: Start with the NMDB workflow included in this repository.
 
     ```matlab
-    % Example MATLAB code for Magellan project
-    % Load your geospatial data
-    % data = load('your_data.mat');
-
-    % Preprocess the data if necessary
-    % processed_data = preprocess(data);
-
-    % Apply Machine Learning model (ensure model is trained or loaded)
-    % results = predict(model, processed_data);
-
-    % Visualize results using Magellan functions
-    % visualize_on_map(results);
-
-    disp('Magellan analysis complete. Check visualization output.');
+    MAGELLAN
     ```
 
 3.  **Advanced Usage**: For custom configurations or more complex scenarios, please refer to the specific function documentation within the repository or contact us for detailed guidance.
@@ -54,7 +49,7 @@ Follow these steps to get started with the Magellan software:
 
 Below is a preview of the kind of visualizations you can create with the Magellan project, showcasing ML insights overlaid on geographical maps.
 
-<img src="https://github.com/ultralytics/magellan/blob/main/neutron_map.png" alt="Magellan Neutron Map Visualization">
+<img src="neutron_map.png" alt="Magellan Neutron Map Visualization">
 
 # 🤝 Contribute
 
@@ -66,7 +61,7 @@ We thrive on community engagement! Your contributions help make Ultralytics open
 
 Ultralytics provides two licensing options to suit different needs:
 
-- **AGPL-3.0 License**: An [OSI-approved](https://opensource.org/license/agpl-v3) open-source license ideal for students, researchers, and enthusiasts. It encourages open collaboration and sharing of knowledge. See the [LICENSE](https://github.com/ultralytics/magellan/blob/main/LICENSE) file for full details.
+- **AGPL-3.0 License**: An [OSI-approved](https://opensource.org/license/agpl-3-0/) open-source license ideal for students, researchers, and enthusiasts. It encourages open collaboration and sharing of knowledge. See the [LICENSE](https://github.com/ultralytics/magellan/blob/main/LICENSE) file for full details.
 - **Enterprise License**: Tailored for commercial applications, this license allows for the integration of Ultralytics software and AI models into commercial products and services without the open-source obligations of AGPL-3.0. For commercial use cases, please contact us via [Ultralytics Licensing](https://www.ultralytics.com/license).
 
 # 📬 Contact
