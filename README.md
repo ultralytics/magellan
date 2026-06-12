@@ -53,7 +53,7 @@ Below is a preview of the kind of visualizations you can create with the Magella
 
 # 🤝 Contribute
 
-We thrive on community engagement! Your contributions help make Ultralytics open-source projects like Magellan even better. Check out our [Contributing Guide](https://docs.ultralytics.com/help/contributing/) to learn how you can get involved. We also value your feedback—please take a moment to fill out our [Survey](https://www.ultralytics.com/survey?utm_source=github&utm_medium=social&utm_campaign=Survey). Thank you 🙏 to everyone who contributes!
+We thrive on community engagement! Your contributions help make Ultralytics open-source projects like Magellan even better. Check out our [Contributing Guide](https://docs.ultralytics.com/help/contributing) to learn how you can get involved. We also value your feedback—please take a moment to fill out our [Survey](https://www.ultralytics.com/survey?utm_source=github&utm_medium=social&utm_campaign=Survey). Thank you 🙏 to everyone who contributes!
 
 [![Ultralytics open-source contributors](https://raw.githubusercontent.com/ultralytics/assets/main/im/image-contributors.png)](https://github.com/ultralytics/magellan/graphs/contributors)
 
@@ -61,7 +61,7 @@ We thrive on community engagement! Your contributions help make Ultralytics open
 
 Ultralytics provides two licensing options to suit different needs:
 
-- **AGPL-3.0 License**: An [OSI-approved](https://opensource.org/license/agpl-3-0/) open-source license ideal for students, researchers, and enthusiasts. It encourages open collaboration and sharing of knowledge. See the [LICENSE](https://github.com/ultralytics/magellan/blob/main/LICENSE) file for full details.
+- **AGPL-3.0 License**: An [OSI-approved](https://opensource.org/license/agpl-3-0) open-source license ideal for students, researchers, and enthusiasts. It encourages open collaboration and sharing of knowledge. See the [LICENSE](https://github.com/ultralytics/magellan/blob/main/LICENSE) file for full details.
 - **Enterprise License**: Tailored for commercial applications, this license allows for the integration of Ultralytics software and AI models into commercial products and services without the open-source obligations of AGPL-3.0. For commercial use cases, please contact us via [Ultralytics Licensing](https://www.ultralytics.com/license).
 
 # 📬 Contact
