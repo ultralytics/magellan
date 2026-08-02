@@ -1,6 +1,6 @@
 <a href="https://www.ultralytics.com/"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="320" alt="Ultralytics logo"></a>
 
-# 📜 Introduction
+# 📜 Ultralytics Magellan
 
 Welcome to the Ultralytics open-source Earth observation repository! This space showcases innovative software developed by Ultralytics, demonstrating the power of **Machine Learning (ML)** in geospatial analysis and Earth observation. Explore our range of cutting-edge projects on the [Ultralytics website](https://www.ultralytics.com/).
 
