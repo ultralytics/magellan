@@ -1,7 +1,7 @@
 % Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
 
 function pStation = sea2stationPressure(pSea,elevation,tempC)
-%http://www.sandhurstweather.org.uk/barometric.pdf
+%https://www.sandhurstweather.org.uk/barometric.pdf
 %p = pressure (millibar or hectopascals);
 %elevation = elevation of station (m)
 %tempC = temp at station (C)

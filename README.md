@@ -1,12 +1,12 @@
-<a href="https://www.ultralytics.com/"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="320" alt="Ultralytics logo"></a>
+<a href="https://www.ultralytics.com"><img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" width="320" alt="Ultralytics logo"></a>
 
 # 📜 Ultralytics Magellan
 
-Welcome to the Ultralytics open-source Earth observation repository! This space showcases innovative software developed by Ultralytics, demonstrating the power of **Machine Learning (ML)** in geospatial analysis and Earth observation. Explore our range of cutting-edge projects on the [Ultralytics website](https://www.ultralytics.com/).
+Welcome to the Ultralytics open-source Earth observation repository! This space showcases innovative software developed by Ultralytics, demonstrating the power of **Machine Learning (ML)** in geospatial analysis and Earth observation. Explore our range of cutting-edge projects on the [Ultralytics website](https://www.ultralytics.com).
 
 [![Ultralytics Actions](https://github.com/ultralytics/magellan/actions/workflows/format.yml/badge.svg)](https://github.com/ultralytics/magellan/actions/workflows/format.yml)
 [![Ultralytics Discord](https://img.shields.io/discord/1089800235347353640?logo=discord&logoColor=white&label=Discord&color=blue)](https://discord.com/invite/ultralytics)
-[![Ultralytics Forums](https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.ultralytics.com&logo=discourse&label=Forums&color=blue)](https://community.ultralytics.com/)
+[![Ultralytics Forums](https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.ultralytics.com&logo=discourse&label=Forums&color=blue)](https://community.ultralytics.com)
 [![Ultralytics Reddit](https://img.shields.io/reddit/subreddit-subscribers/ultralytics?style=flat&logo=reddit&logoColor=white&label=Reddit&color=blue)](https://reddit.com/r/ultralytics)
 
 ## 🌍 Project Description
